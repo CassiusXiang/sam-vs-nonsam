@@ -86,7 +86,7 @@ python plot_training_curves.py --csv_file [CSV_FILE_NAME]
 ### 3. 超参数影响
 
 SAM优化器的rho参数对训练效果有显著影响：
-- rho=0.5时获得最佳性能
+- rho=0.5时获得较佳性能
 - rho=10时可能导致训练精度异常波动
 
 ## 注意事项
